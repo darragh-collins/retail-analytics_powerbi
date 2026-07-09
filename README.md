@@ -1,4 +1,4 @@
-# Retail Analytics Report Project
+# Retail Analytics Project
 
 ## Overview
 
@@ -62,14 +62,14 @@ The purpose of this page is to help identify stock risk, low-stock products, and
 ---
 
 ## Key Features
-- Interactive slicers
-- KPI reporting
-- Trend analysis
-- Category analysis
-- Geographic sales analysis
-- Inventory tracking
-- Returns monitoring
-- Professional dashboard design workflow
+- Interactive report pages
+- Power Query data cleaning and transformation
+- Star schema data modelling
+- DAX KPI measures
+- Revenue, product, returns and inventory analysis
+- Interactive slicers and filtering
+- Business-focused reporting
+- Professional dashboard design
 
 ---
 
