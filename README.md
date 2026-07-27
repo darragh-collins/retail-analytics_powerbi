@@ -1,5 +1,7 @@
 # Retail Analytics Project
 
+![Retail Analytics Banner](retail_analytics_banner)
+
 ## Overview
 
 This project is an end-to-end retail analytics report built in Power BI.
