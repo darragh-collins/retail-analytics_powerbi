@@ -1,6 +1,6 @@
 # Retail Analytics Project
 
-![Retail Analytics Banner](retail_analytics_banner)
+![Retail Analytics Banner](Retail%20Analytics%20Banner.png)
 
 ## Overview
 
