@@ -155,6 +155,7 @@ The SQL analysis demonstrates:
 ---
 
 ## Author
+
 Darragh Collins
 
-[LinkedIn]([http://linkedin.com/in/darragh-collins/])
+[LinkedIn Profile](https://www.linkedin.com/in/darraghcollins)
