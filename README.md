@@ -94,5 +94,39 @@ The SQL analysis demonstrates:
 
 ---
 
+## Selected SQL Results
+
+### 2025 vs 2024 Category Performance
+
+<p align="center">
+  <a href="Images/q04_year_comparison.png">
+    <img src="Images/q04_year_comparison.png" width="600">
+  </a>
+</p>
+
+**Key Finding:** Electronics recorded the largest monetary decline, while DIY achieved the strongest year-on-year growth.
+
+### Return Rate by Category
+
+<p align="center">
+  <a href="Images/q07_return_rate.png">
+    <img src="Images/q07_return_rate.png" width="600">
+  </a>
+</p>
+
+**Key Finding:** Fashion had the highest unit return rate, while Electronics generated the greatest refund value.
+
+### Latest 90 Days vs Previous 90 Days
+
+<p align="center">
+  <a href="Images/q10_period_comparison.png">
+    <img src="Images/q10_period_comparison.png" width="600">
+  </a>
+</p>
+
+**Key Finding:** Most categories improved during the latest 90 days, while Baby declined by 23.97%.
+
+---
+
 ## Author
 Darragh Collins
