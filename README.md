@@ -38,6 +38,8 @@ The Sales Overview page gives a high-level view of business performance. It show
 
 The purpose of this page is to help management quickly see whether sales are trending up or down, which categories and channels are driving revenue, and where sales activity is concentrated geographically.
 
+---
+
 ### Product Performance
 ![Product Performance](Product%20Performance.jpg)
 
@@ -45,12 +47,16 @@ The Product Performance page focuses on how individual products and categories a
 
 It highlights the top products by revenue, the lowest revenue products, category-level performance, and the relationship between revenue and order volume. This helps identify which products are driving sales, which products may need attention, and whether performance is being driven by volume, value, or both.
 
+---
+
 ### Returns Analysis
 ![Returns Analysis](Returns%20Analysis.jpg)
 
 The Returns Analysis page shows how returns are affecting the business.
 
 It tracks returned units, return rate, return value and average days to return, then breaks returns down by category, channel and return reason. This helps identify where returns are concentrated and whether the issue is linked to product quality, customer behaviour, delivery problems or specific categories.
+
+---
 
 ### Inventory Overview
 ![Inventory Overview](Inventory%20Overview.jpg)
