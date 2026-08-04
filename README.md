@@ -75,5 +75,24 @@ The purpose of this page is to help identify stock risk, low-stock products, and
 
 ---
 
+## PostgreSQL SQL Analysis
+
+To extend the Power BI project, I loaded the same retail model into PostgreSQL and wrote 10 business-focused queries covering sales, products, customers, returns and inventory.
+
+The SQL analysis demonstrates:
+
+- Joins, aggregations and date filtering
+- GROUP BY, HAVING, ORDER BY and LIMIT
+- Subqueries and conditional aggregation
+- CASE, COALESCE and NULLIF
+- CTEs and window functions
+- Period comparisons and business-focused interpretation
+
+[View the full business queries](SQL/02_business_queries.sql)
+
+[View the data quality checks](SQL/01_data_quality_checks.sql)
+
+---
+
 ## Author
 Darragh Collins
