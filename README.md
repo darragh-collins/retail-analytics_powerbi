@@ -22,6 +22,7 @@ The project uses Power Query for data cleaning, a star schema model for analysis
 
 ## Tools Used
 - Power BI
+- PostgreSQL
 - Power Query
 - DAX
 - Excel
