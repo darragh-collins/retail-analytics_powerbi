@@ -1,6 +1,6 @@
 -- ============================================================
 -- RETAIL BUSINESS ANALYSIS
--- Dataset: Irish Retail | January 2024 to December 2025
+-- Dataset: Irish Retail - Robinsons | January 2024 to December 2025
 -- PostgreSQL
 --
 -- Rolling reporting periods are anchored to the latest
