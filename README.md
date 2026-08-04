@@ -102,6 +102,16 @@ The SQL analysis demonstrates:
 
 ## Selected SQL Results
 
+### Category Sales and Profit — Latest 90 Days
+
+<p align="center">
+  <a href="Images/q01_category_performance.png">
+    <img src="Images/q01_category_performance.png" width="600">
+  </a>
+</p>
+
+**Key Finding:** Electronics dominated recent performance, generating €927,306.64 in net sales and €383,308.15 in profit.
+
 ### 2025 vs 2024 Category Performance
 
 <p align="center">
@@ -122,6 +132,16 @@ The SQL analysis demonstrates:
 
 **Key Finding:** Fashion had the highest unit return rate, while Electronics generated the greatest refund value.
 
+### Top Two Products Within Each Category
+
+<p align="center">
+  <a href="Images/q09_category_product_ranking.png">
+    <img src="Images/q09_category_product_ranking.png" width="600">
+  </a>
+</p>
+
+**Key Finding:** The category-level ranking identified each category’s leading products without allowing high-value Electronics products to dominate the entire result.
+
 ### Latest 90 Days vs Previous 90 Days
 
 <p align="center">
@@ -136,3 +156,5 @@ The SQL analysis demonstrates:
 
 ## Author
 Darragh Collins
+
+[LinkedIn]([http://linkedin.com/in/darragh-collins/])
